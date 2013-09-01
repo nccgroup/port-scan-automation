@@ -55,4 +55,5 @@ Screen Shot
 Change Log
 =======================
 
+Version 2.0 - New look, updated with support for Kali/Backtrack, Now supports Nessus 4 and 5 policy generation. Added visual progress percent for live host detection.
 Version 1.8 - Official release.
